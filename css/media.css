@@ -97,6 +97,7 @@
 @media only screen and (max-width: 576px){
     .header{
         margin-bottom: 5px;
+        margin-top: 24px;
     }
     .container{
         max-width: 375px;
